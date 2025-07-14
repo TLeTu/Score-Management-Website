@@ -1,4 +1,4 @@
-# Tran Le Tu's Web Developer Intern Assignment
+# Score management website
 
 ## To run the project locally make sure you have ruby + rails + postgresql installed
 - Simply clone the project and do:
