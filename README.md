@@ -1,4 +1,4 @@
-# Score management website
+# Student Score Search and Analytics Platform
 
 ## To run the project locally make sure you have ruby + rails + postgresql installed
 - Simply clone the project and do:
