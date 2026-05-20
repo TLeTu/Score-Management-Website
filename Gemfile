@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "tailwindcss-rails", "~> 4.0"
+gem "tailwindcss-rails", "~> 4.4"
 gem "tailwindcss-ruby", "~> 4.0"
 gem "csv"
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
